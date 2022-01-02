@@ -1,0 +1,1 @@
+E:\App\AspNetIdentityDemo\AspNetIdentityDemo.Client\AspNetIdentityDemo.Client.csproj;x64
